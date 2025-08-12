@@ -6,4 +6,4 @@
         "12,13,14,15" \
         "/data/outputdockernew.mbtiles"
 
-    where chords are minlon, minlat, maxlon, maxlat. specify zoom levels and output file, always in the data directory. Use z,x,y as placeholders for api zoom level
+where chords are minlon, minlat, maxlon, maxlat. specify zoom levels and output file, always in the data directory. Use z,x,y as placeholders for api zoom level
